@@ -10,6 +10,11 @@
 
 <body>
     <h1>Court Case Annotator</h1>
+    <div>
+        {% for annotator in count %}
+            <p>{{ annotator[1] }} : {{ annotator[0] }}</p>
+        {% endfor %}
+    </div>
     <form method="POST" action="/">
         <label for="annotator_name">Annotator Name:</label>
         <select name="annotator_name" id="annotator_name" required>
