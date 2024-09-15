@@ -27,3 +27,13 @@ button {
 button:hover {
     background-color: #45a049;
 }
+
+form {
+    padding-top: 20px;
+}
+
+p {
+    display: inline;
+    margin-right: 10px;
+    padding: 20px;
+}

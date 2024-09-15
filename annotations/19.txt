@@ -1,0 +1,350 @@
+The Cases
+
+These consolidated petitions for review on certiorari and petition for certiorari (petitions) seek to reverse and set aside the Decision dated 17 August 2005 and Resolution dated 27 February 2006 of the Court of Appeals (CA) in CA-G.R. SP. No. 83093, CA-G.R. SP. No. 83141, and CA­-G.R. SP. No. 83889, and the Decision dated 27 May 2008 and Resolution dated 10 November 2009 of the CA in CA-G.R. SP. No. 83727.
+In CA-G.R. SP. No. 83093, CA-G.R. SP. No. 83141, and CA-G.R. SP. No. 83889, the CA reversed and set aside the Decision dated 25 June 2002, as modified by a recommendation dated 01 July 2002 and a Memorandum dated 02 July 2002, of the Office of the Ombudsman (Ombudsman) in OMB-ADM-0-01-0375 (OMB-0-01-0641), finding respondents Horacio T. Templo (Templo), Edgar B. Solilapsi (Solilapsi), and Lilia S. Marquez (Marquez) guilty of Conduct Prejudicial to the Best Interest of the Service and meting the penalty of suspension for six months. In CA-G.R. S.P. No. 83727, the CA affirmed the Ombudsman’s Decision and Omnibus Order after dismissing the appeal for having been taken out of time.
+
+Antecedents
+
+The Social Security System (SSS) is a corporate body tasked to “establish, develop, promote and perfect a sound and viable tax-exempt social security system suitable to the needs of the people throughout the Philippines.” It is directed and controlled by the Social Security Commission (Commission).
+During the period material to these cases, Republic Act No. (RA) 1161, as amended by RA 8282 (SSS Law), governed the SSS. The law mandated the SSS, through the Commission, to invest revenues in a fund known as the Investment Reserve Fund (IRF). The IRF was comprised of revenues not needed to meet SSS’ current administrative and operational expenses and its current benefit obligations. The Commission was authorized to invest the IRF in various bonds, shares of stock, promissory notes, and other securities that meet certain requirements.
+
+
+
+Specific to shares of stock, Section 26 (i) of the SSS Law set the following standards:
+
+(i) In preferred or common shares of stocks listed or about to be listed in the stock exchange or options or warrants to such stocks or, subject to prior approval of the Bangko Sentral ng Pilipinas, such other risk management instruments of any prime or solvent corporation or financial institution created or existing under the laws of the Philippines with proven track record of profitability over the last three (3) years and payment of dividends at least once over the same period: Provided, That such investments shall not exceed thirty percent (30%) of the Investment Reserve Fund; x x x
+
+Within the SSS, the Securities Trading and Management Department (STMD) was in charge of recommending to the Executive Management Committee (EMC) the various companies where equity investments were to be made. Once the STMD’s recommendation for investment was endorsed by the EMC, the same was submitted to the Commission for approval.
+
+Solilapsi was the Senior Vice President for Investments of SSS. He was charged with the management and investment of SSS funds, including the IRF, and supervised the STMD. Templo was the Chief Actuary and Executive Vice President for the Investments and Finance Sector. Templo was also a member of the EMC. Other EMC members were respondents Carlos Arellano (Arellano) as Chairman and then Executive Vice President Leopoldo Veroy (Veroy). Marquez was the Department Manager of the Loans and Investments Department, which, like the STMD, was also under Solilapsi’s supervision.
+
+
+
+At the 12 January 1999 regular meeting of the Commission, the Commission resolved to direct management to, among others, “submit a list of stocks and other kinds of investments the Commission will allow SSS to invest in, including the overall SSS portfolio, a running total of the investment reserve fund and how much of it is already being filled, as well as all information showing the movements in stock investments.”
+
+Accordingly, in a Memorandum dated 18 January 1999, then STMD Head Rizaldy Capulong (Capulong), with Solilapsi’s approval, submitted a proposal for the inclusion of ten (10) new stock issues in the equities portfolio of SSS, “subject to the completion of financial projections and further economic analysis.” Among the issues included in the proposal were shares of stock of the Philippine Commercial International Bank (PCIB).
+
+Capulong recommended that the inclusion of the stocks be subject to the following conditions:
+
+1. For economic analysis, industry or sectoral growth prospects to which these companies may be classified should be at par or better than the government’s forecasted Gross Domestic Product growth for the year of 2.6% to 3.1%. In case this is not met, the company’s industry position, that is, whether a monopoly or market leader, should be considered.
+
+2. For security analysis which includes portfolio risk/return considerations, companies selected should have positive earnings forecast for the medium term period, 1999 to 2001.
+
+On 19 January 1999, the EMC approved the proposal and endorsed it for approval. In its Resolution No. 44, the Commission approved the inclusion of the issues in the SSS equities portfolio, including the additional conditions relating to economic and security analyses.
+
+Thereafter, in a memorandum dated 10 February 1999, Capulong, with Solilapsi’s approval, recommended the inclusion of the issues listed in his 18 January 1999 Memorandum after finding that they have complied with the additional conditions imposed in Resolution No. 44. The EMC approved the recommendation on 10 March 1999. Commission approval was no longer sought as its earlier approval only became implementable through compliance with Resolution No. 44.
+
+
+
+Pursuant to his 18 January 1999 Memorandum, Capulong, in a Memorandum dated 19 April 1999, recommended to the EMC the investment of P11 Billion in common shares of Equitable Banking Corporation (EBC), Metropolitan Bank and Trust Company (MBTC), and PCIB. The EMC approved and endorsed Capulong’s recommendation. Thereafter, in Resolution No. 332 dated 04 May 1999, the Commission approved the investment of P11 Billion in the common shares of EBC, MBTC, and PCIB.
+
+Sometime in the first week of May 1999, Templo was informed that there would be a meeting with Equitable Banking Corporation Investment, Inc. (EBC Investment) and the Government Service Insurance System (GSIS) (collectively, the buyers group) on SSS’ possible participation in the purchase of a block of PCIB shares. The shares, comprising 72% of PCIB’s issued and outstanding capital stock, were to be unloaded by Benpres Holdings Corporation, Meralco Pension Fund, Consolidated Robina Capital Corporation, and John Gokongwei, Jr. (collectively, sellers group).
+
+At that time, Arellano was abroad for a social security conference, but before he departed, he left instructions to follow-up on the developments on the impending buy-out of PCIB, in which other major banks were also interested. As Templo was not available for said meeting, he asked Solilapsi to attend the meeting between the buyers group and the sellers group. Templo and an SSS lawyer attended two other meetings wherein the details of and documentation for the transaction were discussed.
+
+The sellers group gave a limited timeframe to make a bid for the acquisition of the PCIB shares. The sellers group also imposed a deadline for the execution of the Sale and Purchase Agreement, i.e., 12 May 1999.
+
+After the contract and other documents had been agreed upon by the buyers and sellers group on 10 May 1999, Solilapsi returned to the SSS offices. He gave the contract documents to Attorney Amador Monteiro (Monteiro), then Senior Vice President for Legal and Collection, for review. Solilapsi also attended to the preparation of the recommendation to purchase PCIB shares, including its justifications. To meet the sellers group’s deadline of 12 May 1999, the recommendation had to be finalized in time for the Commission’s regular board meeting the next day, or on 11 May 1999. Otherwise, SSS and the rest of the buyers group would not be able to submit an offer since the Commission only met once a week.
+
+
+Solilapsi searched for Capulong to instruct him to prepare the summarized study and recommendation, but Capulong could not be located. Thus, Solilapsi requested Marquez to prepare the recommendation only in terms of form, with the substance provided by Solilapsi and the STMD staff.
+
+In a Memorandum dated 10 May 1999 prepared by Marquez with Solilapsi’s approval, SSS’ participation in the purchase of PCIB shares to the extent of P7.5 Billion was recommended. It was proposed that SSS, together with EBC Investment and GSIS, submit an offer at a price of P290.075 per share. SSS and GSIS were to purchase 23.5% each of the offered shares, while EBC Investment was to acquire 53% of the offered shares.
+
+The EMC approved and endorsed the recommendation. In a Memorandum dated 11 May 1999, Attorney Monteiro stated that the Legal and Collection Department have reviewed the documents and found the terms and conditions thereof to be in order.
+
+At the 11 May 1999 regular board meeting of the Commission, Solilapsi presented the proposal. After deliberations, the Commission approved the recommendation under its Resolution No. 381.
+
+As authorized by the Commission, Veroy and Templo signed the tender offer letter prepared by the buyers group. On 12 May 1999, the parties executed a Sale and Purchase Agreement and Escrow Agreement.
+
+On 24 May 1999, the Monetary Board of the Bangko Sentral ng Pilipinas (BSP) approved the sale and purchase of the PCIB shares. The following day, the Commission nominated Templo and Veroy to assume directorships in PCIB in light of SSS’ shareholdings in PCIB.
+ 
+Subsequently, EBC and PCIB were merged. SSS retained its two seats in the board of directors of the merged bank, which became known as Equitable-PCI Bank (Equitable-PCI).
+
+On 28 August 2001, petitioners in G.R. Nos. 171746-48 (Ciriaco, et al.) and G.R. No. 185290 (Marissu G. Bugante), all SSS officers and members, filed an Affidavit-Complaint with the Ombudsman against several SSS officials—Templo, Veroy, Solilapsi, Monteiro, Marquez, and Arellano—and members of the Commission—Rafael Estrada (Estrada), Miguel Varela (Varela), Marianita Mendoza (Mendoza), Juan Tan (Tan), Cecilio Seno (Seno), Raul Inocentes (Inocentes), Bienvenido Laguesma (Laguesma), and Aurora Arnaez (Arnaez).
+
+Complainants claimed that said SSS officers and Commissioners were responsible for the purchase of PCIB shares at an overprice of P1,165,431,344.00. The alleged overprice was derived from the difference between the supposed market price of PCIB shares at P245.00 per share, and the purchase price of P290.075 per share. As such, the impleaded SSS officers and Commissioners were guilty of Grave Misconduct and Conduct Prejudicial to the Interest of the Service.
+
+In the main, respondents alleged that the claimed overprice was, in reality, a premium, which is normal in negotiated purchases of blocks of shares. Respondents further claimed that the purchase of PCIB shares complied with all requirements for its validity and was supported by diligent studies.
+
+Ruling of the Office of the Ombudsman
+
+In a Decision dated 25 June 2002, the Administrative Adjudication Bureau recommended that: (1) Arellano, Templo, Solilapsi, and Marquez be found guilty of Grave Misconduct; (2) Estrada, Varela, Mendoza, Tan, Seno, Laguesma; and Arnaez be found guilty of Conduct Prejudicial to the Best Interest of the Service; and (3) Veroy, Monteiro, and Inocentes be absolved of the charges.
+The Decision of the Administrative Adjudication Bureau was modified by a recommendation dated 01 July 2002 of Director Mary Susan S. Guillermo and a Memorandum dated 02 July 2002 of Assistant Ombudsman Pelagio S. Apostol, both of which were adopted by then Ombudsman Aniano A. Desierto. As modified, the Decision found Templo, Solilapsi and Marquez guilty of Conduct Prejudicial to the Best Interest of the Service, and imposed a penalty of suspension for six months without pay. As to the other respondents, including those already out of government service at the time the complaint was filed, the case was dismissed for lack of administrative jurisdiction and insufficient evidence.
+
+The Ombudsman ruled that the purchase of PCIB shares was preceded and supported by diligent study, as evidenced by various STMD Memoranda. The 10 February 1999 memorandum was based on reports of various stock and financial analysts.
+
+As to the liability of Marquez, the Ombudsman modified the Administrative Adjudication Bureau’s conclusion that she should not have prepared the 10 May 1999 Memorandum as she did not belong to STMD. The Ombudsman ultimately ruled that such fact was of no significance. This is because the Memorandum was reviewed by Solilapsi, the official charged with the management and investment of SSS funds, and eventually approved by Templo, the Chief Actuary. Moreover, the alleged overcharge was obscured by the various changes in the market price of PCIB shares.
+
+The Ombudsman conceded that the IRF can be used to acquire shares at a premium, as was done in the past. Nonetheless, it noted that the purchase of shares was done with haste, thereby foreclosing a diligent and independent study on the reasonableness of the offer at P290.075 per share. For this reason, Templo, Solilapsi, and Marquez were found guilty of Conduct Prejudicial to the Best Interest of the Service.
+
+Motions for reconsideration from both the complainants and respondents were denied in an Omnibus Order dated 03 March 2004. The Ombudsman maintained that respondents are guilty of Conduct Prejudicial to the Best Interest of the Service for the undue haste in their recommendation to purchase PCIB shares.
+
+The Ombudsman also backtracked on its earlier finding regarding the significance of the 10 May 1999 Memorandum. It ruled that the execution of the Memorandum by Marquez and the approval thereof by Templo and Solilapsi cannot be countenanced because it would create disorder in the flow of responsibility and accountability in the SSS.
+
+Marquez, Solilapsi, and Templo elevated the Ombudsman’s Decision and Omnibus Order to the CA. Also, believing that all named respondents should have been penalized, petitioner Marissu G. Bugante (Bugante) filed a Rule 43 petition for review before the CA.
+
+The petitions of Marquez, Solilapsi, and Templo were docketed as CA-G.R. SP. No. 83093, CA-G.R. SP. No. 83141, and CA-G.R. SP. No. 83889, respectively. Meanwhile, the petition of Bugante was docketed as CA-G.R. SP. No. 83727. Bugante’s petition was not consolidated with the others. Hence, two sets of Decisions and Resolutions were issued by the CA.
+
+Ruling of the CA
+ 
+CA-G.R. SP. No. 83093, CA-G.R. SP. No. 83141, and CA-G.R. SP. No. 83889
+ 
+In its Decision dated 17 August 2005, the CA reversed and set aside the Ombudsman, holding that there was insufficient evidence of Conduct Prejudicial to the Best Interest of the Service. It was not shown that the share purchase violated the law or other administrative rules, or that it was attended with intent to have personal gain. The study of the investment was made since January 1999, while the actual purchase was made in May 1999. Although the reports for the approval of the purchase were written and approved in just one day, this was not sufficient to prove that the transaction was underhanded.
+
+The CA further ruled that respondents did not act with fraudulent intent or bad faith. Respondents merely exercised their discretion to manage the IRF. The CA also pointed out the inequality in the Ombudsman’s decision when it absolved others who committed the same acts.
+
+As to the alleged damage of more than P1 Billion, the CA found that said amount had not been lost by SSS. SSS maintained possession of the stocks. It would have suffered loss if the stocks were subsequently sold at very low prices, but this was not the case. Hence, SSS did not suffer any actual loss.
+
+Petitioners filed motions for reconsideration, but these were denied by the CA in its Resolution dated 27 February 2006.
+
+CA-G.R. SP. No. 83727
+
+In a Decision dated 27 May 2008, the CA dismissed Bugante’s appeal and affirmed the Ombudsman’s Decision and Omnibus Order. The CA ruled that the petition was filed out of time. As such, the Ombudsman’s Decision and Omnibus Order had already attained finality.
+
+Bugante moved for reconsideration, but the same was denied in a Resolution dated 10 November 2009.
+
+Hence, these Petitions.
+
+During the pendency of these cases, Bugante, petitioner in G.R. No. 185290, passed away in May 2017. She was not substituted by her heirs as the latter “ha[ve] no interest in the result of the proceedings.” Similarly, Arellano and Seno passed away on 20 February 2013 and 18 February 2018, respectively.
+
+On 02 January 2020, SSS filed a Manifestation, stating that the parties to these cases are no longer connected with SSS. The SSS Employee Services Department issued a Certification stating the parties’ dates of separation from service and the causes thereof. Templo, Solilapsi, and Marquez availed of optional retirement effective 31 December 2010, 01 June 2014, and 03 January 2011, respectively.
+
+The Ombudsman, on 14 January 2020, also informed the Court that, on 24 August 2009, then Secretary Romulo L. Neri, President and CEO of SSS, filed a Manifestation (Compliance Report) with the Ombudsman. The Manifestation (Compliance Report) states that Templo, Solilapsi, and Marquez had already served their respective six-month suspensions without pay.
+
+Issues
+
+The issues for this Court’s resolution are:
+1. Whether petitioners in G.R. Nos. 171746-48 have standing to appeal the CA Decision and Resolution in CA-G.R. SP. No. 83093, CA-­G.R. SP. No. 83141, and CA-G.R. SP. No. 83889;
+
+2. Whether the petition in G.R. No. 185290 should be considered closed and terminated in light of Bugante’s death;
+
+3. Whether the Ombudsman availed of the correct remedy when it filed a petition for certiorari under Rule 65 instead of a petition for review on certiorari under Rule 45; and
+
+4. Whether the CA erred in absolving Templo, Solilapsi, and Marquez of any administrative liability.
+
+Ruling of the Court
+
+Preliminarily, these Petitions were not rendered moot by the fact that all respondents are no longer in public service. The outcome of these cases would determine if Templo, Solilapsi, and Marquez are entitled to receive salaries and emoluments not paid to them during their six-month suspensions.
+We deny the petitions for being procedurally defective. In addition, the petition in G.R. No. 185290 should be considered closed and terminated in light of Bugante’s death.
+
+In any case, even if We were to ignore petitioners’ procedural lapses, the petitions must be denied just the same. We affirm the CA Decision and Resolution absolving Templo, Solilapsi, and Marquez, albeit for different reasons. In addition to the CA’s finding that diligent studies preceded the purchase of PCIB shares, We hold that respondents’ actions were consistent with what others similarly skilled and situated would have done and the payment of a premium was justified. Moreover, non-obtainment of anticipated profits and Marquez’s preparation of the 10 May 1999 Memorandum do not constitute Misconduct or Conduct Prejudicial to the Best Interest of the Service.
+ 
+
+Petitioners in G.R. Nos. 171746-48 do not have standing to appeal the CA Decision and Resolution in CA­-G.R. SP. No. 83093, CA-G.R. SP. No. 83141, and CA-G.R. SP. No. 83889
+ 
+Marquez challenges the standing of Ciriaco, et al. to appeal the CA Decision, arguing that the latter cannot file a petition independent from the Ombudsman. Relatedly, Solilapsi argues that private complainants in an administrative case are merely witnesses. As such, they are not parties adversely affected by a decision exonerating public officials.
+
+On the other hand, Ciriaco, et al. counter that they have the right to appeal because they were impleaded before the CA. They further assert that, as members and officers of the SSS, they have the duty to see to it that all laws and regulations affecting the SSS are complied with.
+
+We find that Ciriaco, et al. does not have standing to appeal the CA Decision.
+
+Locus standi is a right of appearance in a court of justice on a given question.,To have locus standi, one must be a real party in interest, i.e., one who stands to be benefited or injured by the judgment in the suit, or one entitled to the avails of the suit. In determining standing, the nature and objective of the action must be considered.
+
+The purpose of an administrative proceeding is to protect the integrity of the public service. An administrative offense is committed against the government and public interest. It does not involve any private interest.
+
+Hence, similar to criminal proceedings, the complainant in an administrative case is merely a witness for the government. This characterization has been observed regardless of the entity where the administrative complaint was filed—the Civil Service Commission (CSC), the Ombudsman, or even this Court.
+
+In Paredes v. Civil Service Commission (Paredes), the Court en banc held that a witness has no standing to appeal an exonerating decision because he or she is not the party adversely affected by it. Otherwise put, while anyone may file a complaint before the Ombudsman, not all may appeal a decision in an administrative case.
+
+Notably, the complainant’s lack of interest in an administrative case paved the way for this Court’s abandonment and modification of earlier doctrines on appeals. Previously, the uniform rule was that the disciplining authority may not appeal a decision reversing its ruling. However, in Civil Service Commission v. Dacoycoy (Dacoycoy), the Court ruled that the CSC should be allowed to appeal an exonerating decision of the CA; otherwise, no one would be able to file an appeal to this Court, thus:
+
+Subsequently, the Court of Appeals reversed the decision of the Civil Service Commission and held respondent not guilty of nepotism. Who now may appeal the decision of the Court of Appeals to the Supreme Court? Certainly not the respondent, who was declared not guilty of the charge. Nor the complainant George P. Suan, who was merely a witness for the government. Consequently, the Civil Service Commission has become the party adversely affected by such ruling, which seriously prejudices the civil service system. Hence, as an aggrieved party, it may appeal the decision of the Court of Appeals to the Supreme Court. x x x (Emphasis supplied.)
+
+Throughout the years, the doctrine in Dacoycoy underwent several clarifications and qualifications. Eventually, the government’s right to appeal expanded to cover the Ombudsman and other disciplining authorities.
+
+These developments notwithstanding, the rule on complainants as mere witnesses has largely remained the same. Jurisprudence holding that the private complainant has no right to appeal remains good law.
+
+We are aware of subsequent rulings that seem to have accommodated a degree of private standing in appeals from administrative decisions. In these cases, the Court considered the direct effect of the administrative case on the complainants.
+
+In Philippine National Bank v. Garcia, Jr. (PNB), the Court allowed Philippine National Bank (PNB) to appeal a CSC decision exonerating one of its employees. PNB, previously government-owned, was privatized during the pendency of the CSC appeal. The CA ruled that PNB, then already a private entity, had no standing to appeal the CSC decision. However, this was reversed by the Court, holding that PNB had the right to preserve its name as a premier banking institution:
+
+In the same light, herein Petitioner PNB has the standing to appeal to the CA the exoneration of Respondent Garcia. After all, it is the aggrieved party which has complained of his acts of dishonesty. Besides, this Court has not lost sight of the fact that PNB was already privatized on May 27, 1996. Should respondent be finally exonerated indeed, it might then be incumbent upon petitioner to take him back into its fold. It should therefore be allowed to appeal a decision that in its view hampers its right to select honest and trustworthy employees, so that it can protect and preserve its name as a premier banking institution in our country.
+
+In the recent case of Ching v. Bonachita-Ricablanca (Ching), the Court ruled that private complainant therein had standing to appeal the CA decision. Respondent official approved the construction and operation of a fuel station near a residential area that caught fire. The fire incident, which was the basis of the administrative complaint, personally traumatized and affected the complainant, whose residence was right beside the burned building.
+
+These cases show that there is room to introduce exceptions to Paredes, similar to those in criminal cases. However, these exceptions should be carved out on a limited case-to-case basis, and only when warranted by the circumstances. Otherwise, courts would be overburdened by multiple appeals from numerous litigants, as what transpired in the cases at bar.
+
+Moreover, any exception should be grounded on the complainant’s personal and substantial interest in the suit, similar to those in PNB and Ching. In PNB, the assailed decision directly affected PNB’s right to select trustworthy employees. In Ching, the government official’s actions put in danger complainant’s physical safety and property.
+
+Absent exceptional circumstances, the en banc ruling in Paredes should be applied. The enduring applicability of Paredes was affirmed in Ochoa, Jr. v. Dy Buco (Ochoa), where the Court reiterated that the private complainant in an administrative case has no standing to appeal a CA Decision.
+
+In this case, We find no reason to depart from the general rule in Paredes. Ciriaco, et al.’s asserted interest in ensuring compliance with laws and regulations is too general and equivocal. This concern is shared by the rest of the citizenry, more so by the Ombudsman. After all, the Ombudsman has the mandate of enforcing administrative liabilities of public officers.
+
+Furthermore, Ciriaco et al. filed their petition in their personal capacities, and not as representatives of SSS. In effect, their standing is similar to any other private complainant who seeks to hold public officers accountable. This interest is already represented and protected by the Ombudsman. Their arguments and evidence were raised by the Ombudsman. Thus, Ciriaco, et al. are not uniquely positioned to pursue this case.
+
+It is true that a law limiting the right to appeal in the administrative case is a rule of procedure, not of substantive law. Failure to timely invoke a rule of procedure in favor of a party constitutes a waiver thereof. However, in this case, Respondents timely raised their objections when Ciriaco, et al. filed their appeal. While Ciriaco, et al. were impleaded as respondents in the CA, this does not constitute a waiver of objections because the applicable case law pertains to appeals, not to mere participation before the CA. In fact, in Dacoycoy and Ochoa, complainants were also impleaded before the CA. Yet, We did not hesitate to hold that they do not have standing to appeal before the Court.
+
+For these reasons, We hold that Ciriaco, et al. does not have standing to file this appeal.
+ 
+
+The petition in G.R. No. 185290 should be considered closed and terminated in view of Bugante’s death
+ 
+Similar to Ciriaco, et al., Bugante, being a mere witness, does not have standing to file her petition. In addition, in view of Bugante’s death, G.R. No. 185290 should be considered closed and terminated.
+
+Bugante’s counsel correctly points out that, as a general rule, the complainant’s death does not warrant the withdrawal or termination of an administrative charge; nor does this development render the complaint moot. However, these doctrines only apply to an administrative case to be resolved at the first instance, or, specific to this case, at the Ombudsman level.
+
+We have consistently differentiated the Ombudsman vis-à-vis judicial appellate proceedings. The former are not bound by strict rules of procedure in light of the Ombudsman’s constitutional mandate to preserve the public trust. The latter require faithful compliance with the Rules of Court and other statutory requirements, appeal being a mere privilege.
+
+Had Bugante passed away during the Ombudsman proceedings, her death would not have barred the Ombudsman from resolving her complaint. However, since G.R. No. 185290 is only an appeal, the regular rules on survival of actions apply. In a cause of action that survives, the wrong complained of primarily and principally affects property and property rights, the injuries to the person being merely incidental; in a cause of action that does not survive, the injury complained of is to the person, the property and rights of property affected being incidental.
+
+This appeal did not survive Bugante’s death. It does not affect property rights, and Bugante’s heirs have no interest to be protected by substitution. Accordingly, Bugante’s petition may not be pursued by her heirs who, in any case, refused to substitute her. Moreover, Bugante’s counsel has no authority to file any further pleading or motion on her behalf. The death of a client immediately divests counsel of authority.
+
+Thus, We need not belabor on the issues raised in Bugante’s petition. Besides, except for the timeliness of her appeal before the CA, her arguments are virtually identical with those of the other petitioners.
+ 
+
+The Ombudsman Decision and Omnibus Order did not become final with respect to Templo, Solilapsi, and Marquez; the exoneration of the other respondents had already attained finality
+ 
+With the foregoing, We are constrained to clarify the ruling in CA-G.R. SP. No. 83727, as this seemingly affirmed the Ombudsman Decision and Omnibus Order. In contrast, the same Decision and Omnibus Order were reversed and set aside in CA-G.R. SP. No. 83093, CA-G.R. SP. No. 83141, and CA-G.R. SP. No. 83889. Thus, the two sets of CA Decisions and Resolutions apparently contradict one another.
+
+The Decision and Resolution in CA-G.R. SP. No. 83727 dismissed Bugante’s appeal on procedural grounds. Hence, these should not be interpreted as an affirmation of the Ombudsman’s rulings on the merits. Moreover, the CA’s pronouncement on the finality of the Ombudsman Decision and Omnibus Order should be limited to Bugante, in view of the timely appeals filed by Templo, Solilapsi, and Marquez.
+
+Notably, except for Templo, Solilapsi, and Marquez, the other SSS Commissioners and officers were only impleaded in G.R. No. 185290. These Commissioners and officers were exonerated by the Ombudsman. Only Bugante appealed their exoneration.
+
+With the termination of G.R. No. 185290 and the death of some respondents, the Ombudsman Decision in their favor shall no longer be disturbed. This is consistent with the rule that a decision by the Ombudsman absolving respondents is generally final and unappealable. An exoneration may only be assailed through a petition for certiorari under Rule 65, and none was filed here. Hence, We confirm that the dismissal of the administrative complaint against Veroy, Monteiro, Arellano, Estrada, Varela, Mendoza, Tan, Seno, Laguesma, and Arnaez had attained finality.
+ 
+
+The Ombudsman availed of the wrong remedy when it filed a petition for certiorari under Rule 65
+ 
+Respondents argue that the Ombudsman availed of the wrong remedy when it filed a petition for certiorari, despite the fact that it had the remedy of appeal through a Rule 45 petition. The Ombudsman counters that a Rule 45 petition is improper because only questions of law may be raised therein, and its petition alleges facts disregarded by the CA.
+
+The Ombudsman’s resort to a petition for certiorari is improper.
+
+The proper remedy of a party aggrieved by a decision, final order, or resolution of the CA is a petition for review on certiorari under Rule 45 of the Rules of Court. That the petition would raise factual issues does not affect the propriety of this mode of appeal. Jurisprudence is replete with exceptions justifying factual review through a Rule 45 petition; the exceptions need only be demonstrated and substantiated.
+
+It is settled that a petition for certiorari may only be filed when there is no plain, speedy, and adequate remedy in the course of law. Here, the Ombudsman could have filed a Rule 45 petition, invoked jurisprudential exceptions, then raised factual issues. A petition for review on certiorari was a plain, speedy, and adequate remedy.
+
+Moreover, a petition for certiorari cannot be used as a substitute for a lost appeal where the latter remedy is available. Records indicate that the Ombudsman only filed a petition for certiorari because it could not meet the deadline for filing a Rule 45 petition.
+
+Initially, the Ombudsman filed a Motion for Extension of Time (To File Petition for Review on Certiorari), manifesting that it “intends to elevate the [CA] Decision and Resolution x x x in a Petition for Review on Certiorari under Rule 45 of the Rules of Court,” and praying for a 30-day extension. The Court granted the motion, with a warning that no further extension shall be given. On 21 April 2006, or the last day of the extended period, the Ombudsman filed a Manifestation, stating that it shall instead file a petition for certiorari under Rule 65 of the Rules of Court because the CA committed grave abuse of discretion amounting to lack or excess of jurisdiction.
+
+Had the Ombudsman sincerely believed that a Rule 65 petition was the proper remedy, it would not have filed a motion for extension to file a Rule 45 petition. Moreover, it would not have waited for the last day of the extended period before deciding on the proper mode of appeal. It clearly appears, therefore, that this petition for certiorari was intended to substitute a lost appeal. On this ground alone, the petition should be dismissed.
+ 
+
+The CA correctly held that respondents should be absolved of any administratively liability
+ 
+Even if We were to disregard the procedural defects besetting these cases, the petitions must be denied just the same. The CA correctly ruled that Templo, Solilapsi, and Marquez are not administratively liable.
+
+Misconduct is a transgression of some established and definite rule of action, more particularly, unlawful behavior or gross negligence by a public officer. It indicates a wrongful intention and not a mere error of judgment. Misconduct becomes grave if it involves any of the additional elements of corruption, willful intent to violate the law, or flagrant disregard of established rules, which must be established by substantial evidence.
+
+On the other hand, there is no hard and fast rule as to what acts or omissions constitute Conduct Prejudicial to the Best Interest of the Service. Nonetheless, jurisprudence provides that the same deals with a demeanor of a public officer which tarnished the image and integrity of his or her public office.
+
+The standard of investment-related conduct governing SSS officials was set forth in Section 26 of the SSS Law:
+
+SECTION 26. Investment of Reserve Funds. — All revenues of the SSS that are not needed to meet the current administrative and operational expenses incidental to the carrying out of this Act shall be accumulated in a fund to be known as the “Reserve Fund.” Such portions of the Reserve Fund as are not needed to meet the current benefit obligations thereof shall be known as the “Investment Reserve Fund” which the Commission shall manage and invest with the skill, care, prudence and diligence necessary under the circumstances then prevailing that a prudent man acting in like capacity and familiar with such matters would exercise in the conduct of an enterprise of a like character and with similar aims. Pursuant thereto, and in line with the basic principles of safety, good yield and liquidity, the Commission shall invest the funds to earn an annual income not less than the average rates of treasury bills or any other acceptable market yield indicator in any or all of the following: x x x (Emphasis supplied.)
+
+Thus, in assessing the propriety of respondents’ actions, the benchmark should be those of a prudent man: (1) acting in like capacity; (2) familiar with investment matters; and (3) conducting an enterprise of a like character and with similar aims. Moreover, the skill, care, and prudence required must be in reference to the circumstances prevailing. Otherwise put, We cannot impose a standard of conduct detached from the facts.
+
+In this case, the Ombudsman found Templo, Solilapsi, and Marquez administratively liable because of the speed through which the recommendation for and approval of the purchase was made, as well as the preparation of the 10 May 1999 Memorandum by someone not from the STMD. Similarly, Ciriaco, et al. and Bugante cite text from foreign websites to support their arguments on what respondents should have done.
+
+The main error in these assertions is they impose nebulous rules of action in a vacuum. Both the Ombudsman and the complainants failed to show that someone, with the same skillset as respondents, and faced with identical facts, would have acted differently in managing investments of a Philippine enterprise. None of the complainants belonged to the STMD or the Investments and Finance Sector of the SSS. It was not shown that they were privy to, or knowledgeable in, the investment decisions that led to the purchase of PCIB shares.
+
+In contrast, records show that the actions of Templo, Solilapsi, and Marquez were attuned to the circumstances, supported by diligent studies, and consistent with the views of others similarly skilled.
+ 
+
+No undue haste attended the purchase of PCIB shares, it was preceded and supported by continuing studies.
+ 
+The expeditious purchase of PCIB shares resulted from a change in the STMD’s ways of working. During its 12 January 1999 regular meeting, the Commission directed Solilapsi to expedite share purchase recommendations because the SSS missed out on an opportunity to buy Metro Pacific Corporation shares at a lower price. The preparation of the recommendations could not keep up with the changes in the market. Hence, management was directed to conduct continuing fundamental analyses to better time share purchases. The Minutes of the 12 January 1999 read:
+
+Commissioner Estrada seconded. He, however, asked why it took so long for Management to come up with the proposal to buy wherein the shares have moved already drastically about a peso over the last month.
+
+According to VP Solilapsi, the reason was that the information on the necessary financial data and significant report which they were trying to get from Mr. Nazareno, the president himself, was presented to them only last Wednesday and Friday.
+
+Chairman Arellano asked if Management has a list of investments, with analysis which is continuous and the information given. According to him, SSS only moved into this MPC when they saw the stock moving. Before, he added, there was no information on that. He said that what they can do probably is come up with a list of investments next time and present it to the Commission, noting that even [if] the data is not complete. He also said that things change a lot and people are speculating that SSS will buy MPC, that is why its price has gone up too and others buy ahead of SSS. He said that Management should do something about it.
+
+VP Solilapsi said that next meeting, they will present a basket of stocks with good fundamentals by which SSS might go into at the right time.
+
+Chairman Arellano said to include a list of basic investments the Commission will allow management to invest in.
+
+Commissioner Inocentes also said to include a running total of the investment reserve fund and how much of it already is being filled, to which Chairman Arellano said 17%, adding that Management should show the movement, including the overall portfolio.
+
+VP Solilapsi said that they will submit what the Commission requests next meeting. (Emphasis supplied)
+
+As a result, in its Memorandum dated 18 January 1999, Capulong proposed the inclusion of 10 stock issues in the equities portfolio. This proposal was based on data on the companies’ liquidity, profitability, and market capitalization. Data showed that the shortlisted shares complied with the general requirements of safety, good yield, and liquidity under the Section 26 of the SSS Law, and the specific requirements under the same provision.
+
+The shortlisted shares fell within the top 50% of all listed stocks in terms of daily traded value and top 20% based on market capitalization. The shares were also actively traded in the market. Data further showed that their net earnings were positive and non-decelerating for three (3) years and dividends were declared at least once over the same period. In fact, accompanying the Memorandum was a Certification dated 18 January 1999 issued by Attorney Monteiro, stating that the listed corporations “have satisfied the requirements of Section 26 (i) of the Social Security Act for inclusion in the SSS equities portfolio and that they have [a] proven track record of profitability over the last three years and payment of dividends at least once over the same period.” Hence, as early as the first Memorandum, compliance with the SSS Law had already been established.
+
+In the 10 February 1999 Memorandum, Capulong submitted additional data showing that the shortlisted companies met the other requirements approved by the Commission, i.e., industry growth greater than the government’s forecasted Gross Domestic Product growth and positive net earnings forecast for the medium-term period. The figures supporting these conclusions were culled from Philippine Stock Exchange (PSE) monthly reports and various reports from brokerage houses and financial analysts. Thus, various reports confirmed that PCIB had good growth and profitability prospects.
+
+Finally, in the 19 April 1999 Memorandum where Capulong proposed the investment of P11 Billion in common shares of EBC, MBTC, and PCIB, his recommendation was based on data on the profitability of the banks, their ranking in terms of total assets and capital funds, the stocks’ price-to­-earnings (PE) and price-to-book (P/BV) ratios, total investment of the IRF in the banking industry, and the banks’ dividend history. The figures reportedly justified investing in these three banks.
+
+Hence, as early as April 1999, the investment in PCIB shares had been repeatedly studied and vetted by the Investments and Finance Sector. It had been approved by the Commission. As stated in the approved 19 April 1999 Memorandum, the proposed equity investments were to be “implemented subject to favorable market conditions.” The only variable left was timing.
+
+It is thus erroneous to assume undue haste simply because the 10 May 1999 Memorandum was swiftly prepared and approved. The final Memorandum was anchored on four months of studies and cited the previous Memoranda’s approvals. At that point, the only issue left was whether SSS should pull the proverbial trigger. After all, that was the apparent goal of the Commission when it directed Solilapsi and his subordinates to conduct continuous studies, i.e., so that SSS could be nimble and make the right call at the right time. Requiring further studies would have been redundant.
+
+Had respondents vacillated on the purchase of PCIB shares, SSS would not have met the seller group’s hard deadline to submit a bid. As other banks also submitted bids, it is highly possible that the sellers group would have accepted any of these offers, thereby foreclosing SSS’ chance of buying a huge block of PCIB shares. Had the situation been reversed, fault could have also been ascribed to respondents for missing out on yet another investment opportunity.
+
+Petitioners point to affidavits executed by Capulong and Merceditas G. Caculitan, then Corporate Secretary of SSS, to the effect that, except for the Memoranda, no other study was made in relation to the purchase of PCIB shares. However, these affidavits only attested to the absence of any other study; they did not establish that other studies should have been made.
+
+Notably, it was Capulong who prepared the first three Memoranda, including the 19 April 1999 Memorandum proposing the investment of P11 Billion in EBC, MBTC, and PCIB. Had Capulong believed that more studies should have been made, he would have stated so in his 19 April 1999 Memorandum, similar to his recommendation in his 18 January 1999 Memorandum. He could have also explicitly alleged such position in his affidavit. Yet, he did not do so. This only supports the conclusion that a similarly skilled, prudent man would not have needed further studies before deciding to purchase PCIB shares.
+ 
+
+The payment of a premium was sufficiently justified by respondents.
+As to the alleged overprice, respondents sufficiently showed that such amount was a premium, and its payment was justified under the circumstances.
+
+Records support respondents’ claim that the payment of a premium, i.e., an amount above a share’s market price or last traded price, is a standard business practice. And the amount is usually paid when purchasing a sizable block of shares. SSS has a history of buying and selling blocks of shares at a premium.
+
+When SSS purchased 1,059,764 shares of Far East Bank and Trust Company, it paid a premium of 10%, or an additional P80.00 per share, in view of the shares being bought as a block. The payment of a premium was further justified by the fact that, “most likely[,] the shares of stock will appreciate more than that premium if they will be acquired through the stock exchange in an ordinary fashion.” SSS also sold shares at a premium, specifically blocks of its San Miguel Corporation, Philippine Long Distance Telephone Company, Far East Bank and Trust Company, and Union Bank of the Philippines shares.
+
+From all indications, therefore, there is nothing irregular or unusual in transacting shares at a premium. Similarly, there is no law mandating that SSS only purchase shares at their traded prices, much less through the stock market. We are not in a position to impose such additional requirement.
+
+Here, SSS bought 25,855,382 out of 109,750,599 shares sold by the sellers group. With such huge volume, the payment of a premium is understandable. It is improper to compare the purchase price with the share’s trading prices at the stock exchange. It was not shown that the volume bought by the buyers group was available for purchase at the exchange.
+
+Based on a Memorandum prepared by Capulong, the volumes being traded at the exchange were only in the hundreds of thousands, with some even in the tens of thousands. Assuming that the volume transacted was available in the exchange, buying and selling 109,750,599 shares would have affected the share prices. Similar to the conclusion in the study for Far East Bank and Trust Company shares, PCIB share prices may have even surpassed the P290.075 purchase price.
+
+Moreover, there is no basis to petitioners’ use of P245.00 in computing the alleged overprice. This amount, while indicated as the current price of a PCIB share in the 19 April 1999 Memorandum, was no longer the prevailing price at the time the purchase was approved. The day before Commission approved the purchase, PCIB shares reached an intra­-day high of P295.00 per share. On the day the purchase was approved, PCIB shares closed at P272.50. This translated to a premium of about 6%, lower than the 10% premium for Far East Bank and Trust Company shares.
+
+Furthermore, petitioners’ claim that respondents did not study the purchase price is erroneous. The P290.075 purchase price was further justified by a Comparative Industry Analysis attached to the 10 May 1999 Memorandum. Using PE and P/BV ratios, the proposed purchase price was determined to be even lower than the market price of Bank of the Philippine Islands and MBTC shares. These ratios were used by the SSS management and the Commission in assessing the reasonableness of the price and its built-in premium. Thus, while the proposed price of P290.075 did originate from EBC Investment, respondents conducted an independent assessment.
+
+Lastly, contrary to petitioners’ claims, that SSS did not gain controlling interest over PCIB does not negate the bases for the premium. In the first place, the SSS Investment Guidelines prohibit SSS from acquiring more than 50% of a corporation’s paid-up capital. It does not appear that SSS’ previous transactions with a premium involved any controlling interest. Thus, payment of a premium for a minority interest is not irregular.
+
+In any case, because of its purchase, SSS acquired two board seats in PCIB, which were retained after the merger with EBC. This put SSS in a position to participate in the bank’s affairs and protect its investment. This, in itself, is a benefit that SSS would not have acquired had it acquired a small number of shares at the stock exchange.
+ 
+
+Others familiar with PCIB’s financial prospects and the Philippine investment environment confirmed that respondents’ decision was sensible
+ 
+The soundness of the investment in PCIB was confirmed by studies of other brokerage firms and financial analysts. While these studies were not submitted to the Commission, these confirm that others similarly skilled and familiar with the Philippine investment environment would have acted in the same manner as respondents.
+
+Records show that Indosuez W.I. Carr Securities issued a report stating that PCIB shares were undervalued by 30%, and share prices could reach P312.50. Paribas noted that other banks submitted bids as high as 2.25 times PCIB’s book value, in contrast with SSS’ bid of 1.8 times. Paribas concluded that PCIB shares could have been purchased at 2.25 times the book value, or for P11 Billion more, and that would still have been reasonable considering that MBTC shares were trading at that level. Nomura Asia similarly concluded that the acquisition price of P290.075 was a fair price.
+
+Moreover, the Commission on Audit (COA) did not flag the transaction in its report for 1999. On the contrary, the COA observed that “excellent investment performance fueled the growth of assets in 1998 and 1999,” and “superior fund management and professional expertise exerted a distinct impact in ensuring SSS fund viability.”
+
+Thus, the records overwhelmingly support respondents’ investment decision. As correctly held by the CA, there is no evidence of underhandedness, fraud, or dishonesty. The imputations against respondents are mere surmises. For the foregoing reasons, We hold that the purchase of PCIB shares at P290.075 per share was prudently and reasonably made.
+ 
+
+Non-obtainment of anticipated profits does not evince Misconduct or Conduct Prejudicial to the Best Interest of the Service
+ 
+To further support their imputations of irregularity, petitioners point to events that transpired after the investment was made. Specifically, they argue that the value of Equitable-PCI shares eventually dipped and SSS subsequently decided to sell its Equitable-PCI shareholding to cut its losses. Petitioners aver that, had respondents invested the money into government treasury bills, SSS would have easily earned P1.925 billion.
+
+Petitioners failed to substantiate their assertions. Nonetheless, even assuming that these were true, these post-acquisition events could not taint the credibility of respondents’ actions.
+
+The SSS Law only requires “skill, care, prudence and diligence necessary under the circumstances then prevailing.” Hence, what matters is that investment decisions be carefully made based on the information then available.
+
+As already established, respondents’ decisions were prudently made based on the data available at that time. In the 19 April 1999 Memorandum, PCIB’s net profits were predicted to increase by 13% due to increase in loan growth and improving economic conditions. Even with their skills, respondents could only make informed revenue forecasts. They have no control over the markets, much less the economy or the political landscape, all of which could affect share prices and revenues.
+
+It is accepted that all investments carry a certain degree of risk. Equity investments, or investments in shares of stock, carry a higher risk than treasury bills, but with the prospect of a higher return. As long as the requisite diligence was observed, We cannot hold government officials liable should these risks materialize. Otherwise, We would set a bad precedent where career service professionals would be made guarantors against loss.
+
+Relatedly, We are not in a position to hold that respondents should have invested in treasury bills instead. This is a matter of investment strategy that the Court is ill-equipped to resolve. While equity investments may be relatively aggressive for petitioners’ risk appetites, this does not make the investments wrong per se.
+
+Section 26 (i) of the SSS Law precisely set safeguards to mitigate risks in equity investments. As these were complied with, respondents’ actions should be sustained.
+ 
+
+The preparation of the 10 May 1999 Memorandum by Marquez cannot be the basis of any administrative liability.
+ 
+As to the preparation of the 10 May 1999 Memorandum by Marquez, the same neither constitutes Misconduct nor Conduct Prejudicial to the Best Interest of the Service.
+
+While Marquez does not belong to the STMD, her participation in the execution of the Memorandum was adequately explained by Solilapsi. Because Capulong, the usual author of STMD Memoranda, was not present, Marquez assisted Solilapsi in encoding information which Solilapsi and the other STMD staff provided. The help of Marquez was solicited because, similar to Capulong, she was also a subordinate of Solilapsi.
+
+This minor procedural deviation was warranted by the exigencies of the service. The tight timeframe did not afford Solilapsi the luxury of time to wait for Capulong. The absence of one person should not cripple the STMD.
+
+At most, the header of the 10 May 1999 Memorandum may only be considered inaccurate, as it specified the name of Marquez after the word “From.” It may have suggested that the information therein came from Marquez, when in truth, Marquez only assisted in the Memorandum’s formalization.
+
+Nonetheless, the indication of Marquez’s name may only be considered as an error of judgment that is insignificant. All STMD Memoranda on record specified Solilapsi’s name after the word “Thru” in the header. In other words, all Memoranda were approved by Solilapsi as the superior of Capulong. Since the 10 May 1999 Memorandum also indicated Solilapsi’s name and approval, it was clear that Solilapsi was accountable for the information and recommendation therein; the name of Marquez was no longer relevant.
+
+For the foregoing reasons, We hold that respondents are not administratively liable. Their expeditious actions, in and of themselves, do not evince wrongdoing. On the contrary, efficiency is a virtue that all branches of government should nurture and incentivize. Paralyzing indecision should be suppressed. Once all legal requirements are complied with, government personnel should be confident to act as required by the exigencies of the service.
+
+Accordingly, Templo, Solilapsi, and Marquez are entitled to the payment of salaries and other emoluments they did not receive by reason of their six-month suspensions.
+
+WHEREFORE, premises considered, the petition in G.R. No. 185290 is considered CLOSED and TERMINATED. The dismissal of the administrative complaint in OMB-ADM-0-01-0375 (OMB-0-01-0641) with respect to Leopoldo S. Veroy, Amador M. Monteiro, Carlos A. Arellano, Rafael G. Estrada, Miguel B. Varela, Marianita O. Mendoza, Juan C. Tan, Cecilio T. Seno, Bienvenido Laguesma, and Aurora Arnaez is hereby DECLARED FINAL.
+
+The petitions in G.R. Nos. 171746-48 and G.R. Nos. 171770-72 are DENIED. The Decision dated 17 August 2005 and the Resolution dated 27 February 2006 of the Court of Appeals in CA-G.R. SP. No. 83093, CA-G.R. SP. No. 83141, and CA G.R. SP. No. 83889 are AFFIRMED. Respondents Horacio T. Templo, Edgar B. Solilapsi, and Lilia S. Marquez are ABSOLVED of any administrative liability, and should be paid the salaries and other emoluments they did not receive by reason of their six (6)-month suspensions.
