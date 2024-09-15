@@ -21,7 +21,7 @@ textarea, input[type="text"], input[type="url"], select {
 }
 
 /* Button styling with responsiveness */
-button {
+button, .button_edit {
     background-color: #4CAF50;
     color: white;
     padding: 10px 20px;
