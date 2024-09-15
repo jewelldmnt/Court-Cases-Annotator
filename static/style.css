@@ -1,20 +1,26 @@
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 label {
     font-weight: bold;
 }
 
+/* Ensure input elements are responsive and take up full width */
 textarea, input[type="text"], input[type="url"], select {
     width: 100%;
+    max-width: 100%;
     padding: 8px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 4px;
+    box-sizing: border-box;
 }
 
+/* Button styling with responsiveness */
 button {
     background-color: #4CAF50;
     color: white;
@@ -28,12 +34,77 @@ button:hover {
     background-color: #45a049;
 }
 
+/* Form layout adjustments */
 form {
     padding-top: 20px;
+    max-width: 100%;
 }
 
+/* Ensure paragraphs inside divs align properly */
 p {
     display: inline;
     margin-right: 10px;
     padding: 20px;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+    vertical-align: top; /* Ensures text starts from the top */
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* Responsive table layout for smaller screens */
+@media (max-width: 768px) {
+    table, thead, tbody, th, td, tr {
+        display: block;
+        width: 100%;
+    }
+
+    th {
+        display: none; /* Hide headers for small screens */
+    }
+
+    td {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+        border: none;
+        border-bottom: 1px solid #ccc;
+    }
+
+    td::before {
+        content: attr(data-label);
+        font-weight: bold;
+        width: 50%;
+    }
+
+    td:last-child {
+        border-bottom: 0;
+    }
+}
+
+/* Add spacing for different screen sizes */
+@media (max-width: 480px) {
+    button {
+        width: 100%;
+        padding: 12px;
+        font-size: 16px;
+    }
+
+    textarea, input[type="text"], input[type="url"], select {
+        padding: 12px;
+        font-size: 16px;
+    }
 }
